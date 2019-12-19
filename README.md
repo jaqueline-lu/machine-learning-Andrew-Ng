@@ -1,2 +1,2 @@
 # machine-learning-Andrew-Ng
-the python version of the coursera version of Andrew Ng's machine learning course
+python code for the assignment based on the coursera version of Andrew Ng's machine learning course
